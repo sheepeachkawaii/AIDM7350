@@ -1,0 +1,25 @@
+p { 
+    color:red;
+    font-size:30px;
+}
+p:hover{
+    background:green;
+}
+.standout{
+    color:gold;
+}
+.image1{
+    border-radius:50%;
+}
+.image2{
+    border-radius: 30px;
+}
+.image3{
+    opacity:0.2;
+}
+.image4:hover{
+    filter:grayscale(80%);
+}
+.image5{
+    filter:blur(3px);
+}
